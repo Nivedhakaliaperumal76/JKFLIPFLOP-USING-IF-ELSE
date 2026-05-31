@@ -66,8 +66,19 @@ endmodule
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/ef5e74ca-472b-4a26-b491-907958c8f74a" />
 
+
+
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/2606e9d0-902b-4b39-bbe5-a4298bb09a5d" />
 
+
+
+
+
 **RESULTS**
 The JK Flip-Flop was successfully designed and simulated using Quartus II and its truth table is verified.
+.
+.
+.
